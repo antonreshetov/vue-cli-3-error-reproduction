@@ -1,5 +1,5 @@
 ## Version
-3.0.0-rc.Three
+3.0.0-rc.3
 
 ## Reproduction link
 
